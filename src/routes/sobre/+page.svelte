@@ -1,1 +1,1 @@
-<p>Aprendendo SvelteKit. <a href="/">Clique aqui</a> para voltar à página inicial.</p>
+<p>Aprendendo SvelteKit. <a href="/">Clique aqui</a> para voltar à página inicial.</p>..
